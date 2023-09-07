@@ -6,7 +6,7 @@ In this repository, you can find central bank independence data for 144 countrie
 This data represents an update of the data from Bodea and Hicks 2015 with an additional XX countries.
 We are releasing the scores for all of the components of the CBI index as well. 
 
-The data are available in Stata, Excel, and csv format. 
+The data are available in <a href='data/cbi2021.dta'>Stata</a>, Excel, and csv format. 
 
 
 <h1>References</h1>
