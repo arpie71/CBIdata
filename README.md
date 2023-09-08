@@ -3,11 +3,12 @@
 
 In this repository, you can find central bank independence data for 144 countries for the years 1970 through 2020. 
 
-This data represents an update of the data from Bodea and Hicks 2015 with an additional XX countries.
+This data represents an update of the data from Bodea and Hicks 2015 with an additional 66 countries and 12 more years of data.
 We are releasing the scores for all of the components of the CBI index as well. 
 
 The data are available in <a href='data/cbi2021.dta'>Stata</a>, <a href='data/cbi2021.xlsx'>Excel</a>, and <a href='data/cbi2021.csv'>csv</a> format. 
 
+Additionally, the documentation folder contains Word documents that list the section of the law from which each coding was derived. 
 
 <h1>References</h1>
 
