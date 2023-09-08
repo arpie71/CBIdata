@@ -8,9 +8,9 @@
 <ul><b>AUSTRALIA</b><br>
 <b>Chief Executive Officer (weight = .20)</b><br>
 <i>(a)	Term of office</i><br>
-<i>Australia 1959</i>: The Governor and the Deputy Governor: (a) shall be appointed by the Governor-General; (b) shall be appointed for such period, not exceeding 7 years, as the Governor-General determines but are eligible for re appointment; and (c) hold office subject to good behaviour. (Art. 24, 1) #f00[Coded as .75]<br>
+<i>Australia 1959</i>: The Governor and the Deputy Governor: (a) shall be appointed by the Governor-General; (b) shall be appointed for such period, not exceeding 7 years, as the Governor-General determines but are eligible for re appointment; and (c) hold office subject to good behaviour. (Art. 24, 1) #<span style="color:red;">Coded as .75</span><br>
 <i>Australia 2010</i>: (1)  The Governor and the Deputy Governor: <br>
  (a)  are to be appointed by the Treasurer; and<br>
  (b)  shall be appointed for such period, not exceeding 7 years, as the Treasurer determines but are eligible for re appointment; and<br>
- (c)  hold office subject to good behaviour. (Article 24) #f00[Coded as .75]<br>
+ (c)  hold office subject to good behaviour. (Article 24) <span style="color:red;">Coded as .75</span><br>
 <i>Australia 2021</i>: No change since 2010</ul>
